@@ -1,0 +1,8 @@
+@media (orientation: portrait) {
+  .white-container {
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+  }
+}
