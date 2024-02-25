@@ -1,0 +1,51 @@
+@media (orientation: portrait) {
+  .create-account-container {
+    background-color: #00a7f8;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.shopping-image {
+  width: 300px;
+  height: 100px;
+}
+
+.heading {
+  color: white;
+}
+.fullname-input-field {
+  width: 90vw;
+  margin: 10px;
+  border: 5px solid white;
+  border-radius: 6px;
+}
+.phone-input-field {
+  width: 90vw;
+  margin: 10px;
+  border: 5px solid white;
+  border-radius: 6px;
+}
+.email-input-field {
+  width: 90vw;
+  margin: 10px;
+  border: 5px solid white;
+  border-radius: 6px;
+}
+.password-input-field {
+  width: 90vw;
+  margin: 10px;
+  border: 5px solid white;
+  border-radius: 6px;
+}
+.signup-button {
+  background-color: #3b4856;
+  color: white;
+  margin: 10px;
+  padding: 9px;
+  border-radius: 6px;
+  width: 23vw;
+}
